@@ -12,7 +12,7 @@ function App() {
     <WorkScreen/> 
     <About/>   
     <ContactUs/>
-    <Help/>
+    
     </>
     
   );
