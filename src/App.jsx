@@ -3,6 +3,7 @@ import ContactUs from "./components/ContectUS";
 import Details from "./components/Details";
 import Good from "./components/good";
 import GooodEvening from "./components/goodEvening";
+import GooodMorning from "./components/GoodMorning";
 import Help from "./components/Help";
 import Home from "./components/Home";
 import HomePage from "./components/WelcomeScreen";
@@ -21,7 +22,9 @@ function App() {
     <Good/>
     <Details/>
     <GooodEvening/>
-    </>
+    <GooodMorning/>
+  </>
+ 
   );
 }
 
