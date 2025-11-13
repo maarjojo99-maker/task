@@ -12,7 +12,7 @@ import WorkScreen from "./components/workScreen";
 function App() {
 
   return (
-    <>
+    <main>
     <HomePage/>
     <WorkScreen/> 
     <About/>   
@@ -23,7 +23,7 @@ function App() {
     <Details/>
     <GooodEvening/>
     <GooodMorning/>
-  </>
+  </main>
  
   );
 }
