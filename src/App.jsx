@@ -1,5 +1,6 @@
 import About from "./components/About";
 import ContactUs from "./components/ContectUS";
+import Help from "./components/Help";
 import HomePage from "./components/WelcomeScreen";
 import WorkScreen from "./components/workScreen";
 
@@ -11,6 +12,7 @@ function App() {
     <WorkScreen/> 
     <About/>   
     <ContactUs/>
+    <Help/>
     </>
     
   );
