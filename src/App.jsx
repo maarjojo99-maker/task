@@ -2,6 +2,7 @@ import About from "./components/About";
 import ContactUs from "./components/ContectUS";
 import Details from "./components/Details";
 import Good from "./components/good";
+import GooodEvening from "./components/goodEvening";
 import Help from "./components/Help";
 import Home from "./components/Home";
 import HomePage from "./components/WelcomeScreen";
@@ -19,7 +20,7 @@ function App() {
     <Home/>
     <Good/>
     <Details/>
-    
+    <GooodEvening/>
     </>
   );
 }
